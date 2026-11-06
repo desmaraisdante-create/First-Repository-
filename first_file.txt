@@ -1,1 +1,8 @@
 #NEw file first commit 
+
+this is our code 
+loop = []
+
+loop.append("2")
+for i in loop:
+    print(f"{i} this is my code)
